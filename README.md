@@ -102,3 +102,39 @@ Las contribuciones son bienvenidas. Por favor, considere:
 ## Licencia
 
 Este proyecto está licenciado bajo MIT License.
+
+## ⚠️ Disclaimer
+
+### Riesgos y Responsabilidad
+Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita. Al utilizar este software, usted acepta y reconoce que:
+
+1. **Riesgo Financiero**: 
+   - Las operaciones con criptomonedas conllevan un alto riesgo
+   - Las señales generadas NO constituyen asesoramiento financiero
+   - Las pérdidas pueden exceder la inversión inicial
+
+2. **Uso del Software**:
+   - El programa es una herramienta de monitoreo, NO un sistema de trading automático
+   - Las señales requieren interpretación y análisis adicional
+   - El rendimiento pasado no garantiza resultados futuros
+
+3. **Precisión de Datos**:
+   - La información puede no ser precisa o estar actualizada
+   - Pueden existir retrasos en la obtención de datos
+   - Las APIs externas pueden fallar o proporcionar datos incorrectos
+
+4. **Aspectos Legales**:
+   - El usuario es responsable de cumplir con las regulaciones locales
+   - El uso del software puede estar restringido en algunas jurisdicciones
+   - No nos hacemos responsables del uso indebido de la herramienta
+
+5. **Privacidad y Seguridad**:
+   - No almacenamos datos personales o financieros
+   - El usuario es responsable de la seguridad de sus claves API
+   - Recomendamos usar el software en un entorno seguro
+
+### NO ASESORAMIENTO FINANCIERO
+Este software es ÚNICAMENTE para fines informativos y educativos. No constituye asesoramiento financiero, de inversión o de trading. Consulte con un asesor financiero profesional antes de tomar decisiones de inversión.
+
+---
+*Al utilizar este software, usted acepta todos los términos y condiciones mencionados anteriormente.*
